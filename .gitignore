@@ -1,0 +1,19 @@
+# Ignore rough practice folder
+rough/
+
+# VS Code
+.vscode/
+
+# Build files
+*.exe
+*.out
+*.o
+*.obj
+
+# CMake
+build/
+cmake-build-*/
+
+# OS files
+.DS_Store
+Thumbs.db
