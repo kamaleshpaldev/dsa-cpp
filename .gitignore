@@ -17,3 +17,10 @@ cmake-build-*/
 # OS files
 .DS_Store
 Thumbs.db
+
+# C++ executable
+program
+
+# Input and output files
+input.txt
+output.txt
